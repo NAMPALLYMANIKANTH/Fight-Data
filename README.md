@@ -10,7 +10,7 @@ Loading and Inspecting Data
 
 - Initial data checks: shape, columns, data types, missing values
 
-- Data Cleaning
+- ## Data Cleaning
 
 - Handling null values (fillna, dropna)
 
@@ -28,7 +28,7 @@ Feature Engineering
 
 - Processing duration and time-related columns
 
-Data Visualization
+## Data Visualization
 
 - Distribution plots (price, duration)
 
@@ -36,14 +36,14 @@ Data Visualization
 
 - Boxplots to explore price variance across features
 
-Correlation and Insights
+## Correlation and Insights
 
 - Feature correlation matrix
 
 - Key patterns and business insights identified
 
-🛠️ Technologies Used
-- Python 3.13.3
+## 🛠️ Technologies Used
+- [Python 3.13.3](https://www.python.org/downloads/release/python-3133/)
 
 - Pandas
 
@@ -51,7 +51,7 @@ Correlation and Insights
 
 - Scikit-learn
 
-🧠 Next Steps
+## 🧠 Next Steps
 - Feature selection for machine learning
 
 - Model building (e.g., price prediction, delay forecasting)
